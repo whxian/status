@@ -1,5 +1,5 @@
 # readystatechange #
-
+---
 >IE9以下不支持onload，而所有浏览器都支持onreadystatechange
 >（readystatechange：监控当前服务器响应到了第几步）
 >
