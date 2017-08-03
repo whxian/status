@@ -1,4 +1,4 @@
-#readystatechange
+# readystatechange #
 ---
 
 >IE9以下不支持onload，而所有浏览器都支持onreadystatechange
