@@ -107,7 +107,7 @@ XMLHttpRequest的三个重要属性
 &emsp;&emsp;&emsp;代码也是一步一步执行，但是下一段代码**不用等待上一句代码执行完**就可以执行   
 举个例子：同步->打电话模式  
 &emsp;&emsp;&emsp;&emsp;&emsp;异步->发短信模式
-#### 对象(json)与 字符串的互相转换####
+#### 对象(json)与 字符串的互相转换 ####
 	//对象转字符串
 	/*var obj = {
 			user:'leo',
@@ -137,7 +137,7 @@ XMLHttpRequest的三个重要属性
 		return obj
 	}
 	console.log(stringToobj(str))
-#### 自己ajax ####
+#### 自己封的ajax ####
 	function ajax(json){
 	//配置默认参数
 	var settings = {
